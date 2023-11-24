@@ -4,10 +4,10 @@ This is a repository for project ideas that students can use as inspirations for
 The project ideas will follow the according structure
 
 # Idea List
-[Budget App/Finance tracker App](./mobile/Budget%20app/)
-[Event planner](./mobile/Campus%20Event%20Planner/)
-[Riot games API](./riotgames-API/)
-[discord bot](./server-apps/discordbot/)
+- [Budget App/Finance tracker App](./mobile/Budget%20app/)
+- [Event planner](./mobile/Campus%20Event%20Planner/)
+- [Riot games API](./riotgames-API/)
+- [discord bot](./server-apps/discordbot/)
 
 
 ## <Name of project\>
