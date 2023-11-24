@@ -11,7 +11,7 @@ The project ideas will follow the according structure
 
 
 ## <Name of project\>
-description: <description of project\> <b>
+description: <description of project\> <br>
 skillset: <list of technologies, SE-skills and techniques that are expected to be learned through project\> <br>
-Suggested steps of completion: <Steps that could be taken to complete the project\>
+Suggested steps of completion: <Steps that could be taken to complete the project\><br>
 
