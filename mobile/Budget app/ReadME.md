@@ -1,4 +1,4 @@
-1. Personal Finance Tracker
+Personal Finance Tracker
 Description: This app helps users track their personal finances, including expenses, incomes, savings, and budget planning. The app should allow users to categorize transactions, set budget limits, and provide visual reports to understand spending habits better.
 
 Skillset:
