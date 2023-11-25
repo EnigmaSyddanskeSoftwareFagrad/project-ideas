@@ -4,10 +4,30 @@ This is a repository for project ideas that students can use as inspirations for
 The project ideas will follow the according structure
 
 # Idea List
-- [Budget App/Finance tracker App](./mobile/Budget%20app/)
-- [Event planner](./mobile/Campus%20Event%20Planner/)
-- [Riot games API](./riotgames-API/)
-- [discord bot](./server-apps/discordbot/)
+
+## Mobile Applications
+- [Budget App/Finance Tracker App](./mobile/BudgetApp/)
+- [Campus Event Planner](./mobile/CampusEventPlanner/)
+- [MVVM Weather Forecast App](./mobile/MVVMWeatherForecaseAPP/)
+
+## Desktop Applications
+- [Task Management Application (C# MVP)](./Desktop-Apps/C-SharpTaskManagementAPP/)
+- [Multiplayer Strategy Game](./Desktop-Apps/MultiplayerStrategy/)
+- [2D Platformer Game](./Desktop-Apps/Platformer/)
+
+## IoT Projects
+- [MAUI Offloading to Server](./IoT/MAUI-offloading/)
+- [Smart Home Automation](./IoT/SmartHome/)
+
+## Full Stack Applications
+- [CI/CD Focused Web Application](./full-stack/CICD%20with%20WebAPP/)
+
+## Server Applications
+- [Discord Bot](./Server-Apps/discordbot/)
+- [Matas.dk Web Scraper](./Server-Apps/matas-scraper/)
+
+## APIs and Integrations
+- [Riot Games API Integration](./Riotgames-API/)
 
 
 ## <Name of project\>
